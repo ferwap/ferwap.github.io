@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+	"language": "ca",
+	"title": "En aquest ofici no hi ha diumenges, es treballa dia a dia...",
+    "image": "assets/images/news/13051525_10207566479375115_7598000722714230382_n.jpg",
+    "description": "Terapies Canines. Seguim entrenant la Blava per pasturar el ramat!! ",
+    "url": "https://www.facebook.com/photo.php?fbid=10207566479375115&set=pcb.10207566483575220&type=3",
+    "date": "24/04/2016",
+    "text": "Terapies Canines. Seguim entrenant la Blava per pasturar el ramat!! "
+},
+{
+    "id": 2,
+	"language": "ca",	
+	"title": "Producte de l'Empordà",
+    "image": "assets/images/news/13043369_977517772333561_2687707818660651716_n.jpg",
+    "description": "Al restaurant Casamar de Llafranc",
+    "url": "",
+    "date": "21/04/2016",
+    "text": "<p>Avui Pasturabosc ha canviat la pastura i la muntanya, pel mar i la promoció dels nostres productes. Al restaurant Casamar de Llafranc, hem posat en comú el valor del producte de l'Empordà. Gràcies a tots, el territori ha de ser a la cuina!</p><p>I en Quim Casellas, Casamar restaurant-hotel ens ha cuinat unes pastanagues del Parc Agroecològic de l'Empordà, unes gambes de Palamós, un arròs dels Estanys de Pals i un cabrit de Pasturabosc. I ho hem maridat amb una sidra de Mooma! Mmmmmm....</p>"
+},
+{
+    "id": 3,
+	"language": "ca",	
+	"title": "Fundació Alícia",
+    "image": "assets/images/news/12987091_10154013746585549_6604330816070748634_n.jpg",
+    "description": "Des del Fisiocam et desitjo",
+    "url": "",
+    "date": "19/04/2016",
+    "text": "<p>Prepara't per a fer immersió a pagès de la mà de la Fundació Alícia. Una experiència que et permetrà tornar als orígens. Reserva les dates per participar al ‪#‎benvingutsapages‬. Som Gastronomia</p>"
+},
+{
+    "id": 4,
+	"language": "es",
+	"title": "Trabajo duro",
+    "image": "http://3milliondogs.com/blog-assets-two/2015/02/thuglife.jpg",
+    "description": "Terapies Canines. Seguim entrenant la Blava per pasturar el ramat!! ",
+    "url": "https://www.facebook.com/photo.php?fbid=10207566479375115&set=pcb.10207566483575220&type=3",
+    "date": "24/04/2016",
+    "text": "Ese Toniii"
+},
+{
+    "id": 5,
+	"language": "en",
+	"title": "Thug life",
+    "image": "https://www.profesionalreview.com/wp-content/uploads/2016/01/thug-life-significado.jpg",
+    "description": "En English",
+    "url": "https://www.facebook.com/photo.php?fbid=10207566479375115&set=pcb.10207566483575220&type=3",
+    "date": "24/04/2016",
+    "text": "En English"
+},
+{
+    "id": 6,
+	"language": "fr",
+	"title": "Thug life",
+    "image": "http://3milliondogs.com/blog-assets-two/2015/02/thuglife.jpg",
+    "description": "Be french, my friend",
+    "url": "https://www.facebook.com/photo.php?fbid=10207566479375115&set=pcb.10207566483575220&type=3",
+    "date": "24/04/2016",
+    "text": "Be french, my friend"
+}
+]
